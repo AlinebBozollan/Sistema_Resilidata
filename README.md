@@ -12,6 +12,12 @@ tecnologias as empresas estão utilizando e uma tabela para cadastro de colabora
 
 Neste banco de dados contém imagens de diagramas ilustrativas. Modelo conceitual e Modelo lógico.
 
+**Modelo conceitual**:
+O modelo conceitual é uma representação abstrata e de alto nível de um banco de dados. Ele descreve as principais entidades (objetos, conceitos) envolvidas no sistema e seus relacionamentos, sem se preocupar com os detalhes de como essas entidades serão armazenadas fisicamente. O modelo conceitual é geralmente representado através de diagramas de entidade-relacionamento (ER), que mostram as entidades como retângulos e os relacionamentos entre elas como linhas conectando os retângulos.
+
+**Modelo lógico**:
+O modelo lógico é uma representação mais detalhada do banco de dados. Ele traduz o modelo conceitual em termos específicos do sistema de gerenciamento de banco de dados (SGBD) que será utilizado para implementar o banco de dados. O modelo lógico descreve a estrutura do banco de dados, incluindo as tabelas, colunas, tipos de dados, restrições e relacionamentos.
+
 ---
 **Modo de Uso:** 
 - Selecione a pasta desejada.
